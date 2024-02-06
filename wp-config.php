@@ -29,7 +29,7 @@ define( 'DB_USER', 'koyeb-adm' );
 define( 'DB_PASSWORD', 'jzqM4ynGrR8m' );
 
 /** Database hostname */
-define( 'DB_HOST', 'postgres://koyeb-adm:jzqM4ynGrR8m@ep-dark-butterfly-a4t8izyt.us-east-1.pg.koyeb.app/koyebdb' );
+define( 'DB_HOST', 'ep-dark-butterfly-a4t8izyt.us-east-1.pg.koyeb.app' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
